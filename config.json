@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycpdate",
+        "uuid": 33925674,
+        "checksum": "iadlx"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
